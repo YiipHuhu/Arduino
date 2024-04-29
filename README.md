@@ -5,7 +5,9 @@ Este repositório GitHub contém projetos Arduino para diversos fins. Cada proje
 O repositório contém os seguintes projetos:
 
 Projeto 1: Acendendo um led.
+
 Projeto 2: Acendendo um conjunto de leds.
+
 Projeto 3: Definindo ordem de ativação dos leds.
 
 Instalação
