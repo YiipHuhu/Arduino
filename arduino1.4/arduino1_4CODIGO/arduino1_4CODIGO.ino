@@ -7,7 +7,6 @@
 #define MEIO_SEGUNDO 500
 #define TAMANHO_LUZES 4
   int sequenciaLuzes[TAMANHO_LUZES];
-                        //0        , 1          , 2           , 3
 
 void setup() { 
   IniciaPortas();  
